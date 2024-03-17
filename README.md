@@ -1,6 +1,6 @@
 # Flask_Forum
 
-Code Activating Forum:
+Code Activating Database:
 In your terminal, run
 $ flask --app flask init-db
 Initialized the database.
