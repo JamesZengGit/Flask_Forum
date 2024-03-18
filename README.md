@@ -1,5 +1,5 @@
 # Flask_Forum
-
+## This file is built on Flask.
 Code Activating Database:
 In your terminal, run
 $ flask --app flask init-db
