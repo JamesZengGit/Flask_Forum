@@ -1,7 +1,7 @@
 # Flask_Forum
-
-Code Activating Database:
-# This file is built on Flask.
+This is a part of the simple project of a Flask Forum.
+Both Backend and Frontend.
+This file is built on Flask.
 In your terminal, run
 $ flask --app flask init-db
 Initialized the database.
